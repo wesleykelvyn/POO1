@@ -1,4 +1,4 @@
-public abstract class ContaAbstrata {
+public abstract class ContaAbstrata implements ContaIF{
     
     private int numero;
     private Agencia agencia;
